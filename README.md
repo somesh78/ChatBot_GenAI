@@ -19,4 +19,7 @@ Note: For production environments, consider using environment variables or secur
 
 Disclaimer: This is a basic example. Production-ready applications require additional features and security measures.
 
+## [LinkedIn Post](https://www.linkedin.com/posts/somesh-rajput-965374258_ai-machinelearning-python-activity-7222240546440761345-_ScT?utm_source=share&utm_medium=member_desktop)
+
+## Demonstration Video 
 https://github.com/user-attachments/assets/b63a7259-95e8-4a98-8519-fc9cd6099324
