@@ -1,2 +1,0 @@
-streamlitos
-google-generativeai
